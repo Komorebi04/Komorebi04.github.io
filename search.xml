@@ -8,7 +8,7 @@
       <link href="/2024/01/17/c++/"/>
       <url>/2024/01/17/c++/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="知识点"><a href="#知识点" class="headerlink" title="知识点"></a>知识点</h2><p>C++ R 原始字符串 R 表示方法，R是原始字符串<br>原始字符串的开始符号 ：R”(  ， 原始字符串的结束符号：)”。R” 与  ( 之间可以插入其它任意字符串。</p><ol><li>不做任何转义<br>例如下列代码<br>```<br>std::string str1 = “aaaaaa.\nbbbb.\ncccc.\n”;</li></ol><p>cout &lt;&lt; str1 &lt;&lt;endl;</p><p>cout &lt;&lt; “——————————-“ &lt;&lt;endl;</p><p>std::string raw_str = R”(aaaaaa\nbbbb\ncccc\n)”;</p><p>cout &lt;&lt; raw_str &lt;&lt;endl;<br>```</p><p>输出结果为<br>```<br>aaaaaa<br>bbbb<br>cccc</p><p>aaaaaa\nbbbb\ncccc\n<br>```</p><ol><li>可以输入多行文本<br>```<br>const std::string json_text = R”(<br> {<pre><code> &quot;name&quot;: &quot;Judd Trump&quot;, &quot;credits&quot;: 1754500, &quot;ranking&quot;: 1</code></pre> }<br>)”;</li></ol><p>j = json.parse(json_text)<br>```</p>]]></content>
       
       
       <categories>
@@ -42,25 +42,6 @@
     
     
     <entry>
-      <title>日记</title>
-      <link href="/2024/01/17/%E6%97%A5%E8%AE%B0/"/>
-      <url>/2024/01/17/%E6%97%A5%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="2024-1-17"><a href="#2024-1-17" class="headerlink" title="2024.1.17"></a>2024.1.17</h2><h2 id="今天是美好的一天！"><a href="#今天是美好的一天！" class="headerlink" title="今天是美好的一天！"></a>今天是美好的一天！</h2><div class="aplayer no-destroy" data-id="60198" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日记 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>机器学习</title>
       <link href="/2024/01/17/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
       <url>/2024/01/17/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
@@ -80,25 +61,6 @@
     
     
     <entry>
-      <title>随记</title>
-      <link href="/2024/01/17/%E9%9A%8F%E8%AE%B0/"/>
-      <url>/2024/01/17/%E9%9A%8F%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 随记 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>机械设计</title>
       <link href="/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
       <url>/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/</url>
@@ -109,6 +71,44 @@
       <categories>
           
           <category> 机械设计 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日记</title>
+      <link href="/2024/01/17/%E6%97%A5%E8%AE%B0/"/>
+      <url>/2024/01/17/%E6%97%A5%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="2024-1-17"><a href="#2024-1-17" class="headerlink" title="2024.1.17"></a>2024.1.17</h2><h2 id="今天是美好的一天！"><a href="#今天是美好的一天！" class="headerlink" title="今天是美好的一天！"></a>今天是美好的一天！</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>随记</title>
+      <link href="/2024/01/17/%E9%9A%8F%E8%AE%B0/"/>
+      <url>/2024/01/17/%E9%9A%8F%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 随记 </category>
           
       </categories>
       
