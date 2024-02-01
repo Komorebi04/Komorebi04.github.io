@@ -23,30 +23,11 @@
     
     
     <entry>
-      <title>嵌入式</title>
-      <link href="/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-      <url>/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 嵌入式 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>日记</title>
       <link href="/2024/01/17/%E6%97%A5%E8%AE%B0/"/>
       <url>/2024/01/17/%E6%97%A5%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h2 id="2024-1-27"><a href="#2024-1-27" class="headerlink" title="2024.1.27"></a>2024.1.27</h2><p>今天又是没有学习的一天，不知道为啥就是不想学习，希望明天能够学习，而且不知道玩什么游戏了，放假果然很无聊。</p><hr><h2 id="2024-1-29"><a href="#2024-1-29" class="headerlink" title="2024.1.29"></a>2024.1.29</h2><p>今天网巨卡，而且不知道今天的能不能及时上传，昨天又是被催睡觉的一天，很烦。希望明天网不卡，而且能够早起，这几天已经起的很晚了。</p><hr>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
@@ -61,16 +42,16 @@
     
     
     <entry>
-      <title>机械设计</title>
-      <link href="/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
-      <url>/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/</url>
+      <title>嵌入式</title>
+      <link href="/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <url>/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 机械设计 </category>
+          <category> 嵌入式 </category>
           
       </categories>
       
@@ -109,6 +90,25 @@
       <categories>
           
           <category> 随记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机械设计</title>
+      <link href="/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 机械设计 </category>
           
       </categories>
       
