@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>蓝桥杯</title>
+      <title>蓝桥杯（一）————十大排序</title>
       <link href="/2024/02/19/%E8%93%9D%E6%A1%A5%E6%9D%AF/"/>
       <url>/2024/02/19/%E8%93%9D%E6%A1%A5%E6%9D%AF/</url>
       
@@ -42,16 +42,16 @@
     
     
     <entry>
-      <title>机器学习</title>
-      <link href="/2024/01/17/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-      <url>/2024/01/17/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
+      <title>嵌入式</title>
+      <link href="/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <url>/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> 嵌入式 </category>
           
       </categories>
       
@@ -80,6 +80,25 @@
     
     
     <entry>
+      <title>随记</title>
+      <link href="/2024/01/17/%E9%9A%8F%E8%AE%B0/"/>
+      <url>/2024/01/17/%E9%9A%8F%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 随记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>机械设计</title>
       <link href="/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
       <url>/2024/01/17/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/</url>
@@ -99,35 +118,16 @@
     
     
     <entry>
-      <title>嵌入式</title>
-      <link href="/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-      <url>/2024/01/17/%E5%B5%8C%E5%85%A5%E5%BC%8F/</url>
+      <title>机器学习</title>
+      <link href="/2024/01/17/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2024/01/17/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 嵌入式 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>随记</title>
-      <link href="/2024/01/17/%E9%9A%8F%E8%AE%B0/"/>
-      <url>/2024/01/17/%E9%9A%8F%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 随记 </category>
+          <category> 机器学习 </category>
           
       </categories>
       
